@@ -1,2 +1,4 @@
 site_name: read the docs test
+pages:
+  - Home: index.md
 theme: readthedocs
